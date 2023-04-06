@@ -5,42 +5,42 @@
 // var int=5;
 // console.log("2"+int)
 
-artihmatic Operatores
+// artihmatic Operatores
 
-var int=21;
-var int1=55;
-var result=int+int1;
-console.log(result);
+// var int=21;
+// var int1=55;
+// var result=int+int1;
+// console.log(result);
 
-var sub=50;
-var sub1=20;
-console.log(sub-sub1);
-console.log(sub*sub1);
-console.log(sub/sub1);
+// var sub=50;
+// var sub1=20;
+// console.log(sub-sub1);
+// console.log(sub*sub1);
+// console.log(sub/sub1);
 
-// Assignment Operators
-// var x=5;
-// var y=4;
-// y++;
-// var x= x+y;
-// console.log(x);
+Assignment Operators
+var x=5;
+var y=4;
+y++;
+var x= x+y;
+console.log(x);
 
-// var a=10.34;
-// var b=120;
-// var c=15;
-// var a=a+b;
-// console.log(a);
-//  var c=205;
-//  var d=150;
-//  var c=c-d;
-//  console.log(c);
-//  var a=5;
-//  var b=20;
-//  var a=a+b;
-//  console.log(a);
-// var a='5';
-// a=parseInt(a);
-// console.log("result=>",a, typeof(a));
+var a=10.34;
+var b=120;
+var c=15;
+var a=a+b;
+console.log(a);
+ var c=205;
+ var d=150;
+ var c=c-d;
+ console.log(c);
+ var a=5;
+ var b=20;
+ var a=a+b;
+ console.log(a);
+var a='5';
+a=parseInt(a);
+console.log("result=>",a, typeof(a));
 
 //  comparion operatores
 //  < less then 
