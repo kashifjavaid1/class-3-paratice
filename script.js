@@ -18,50 +18,71 @@
 // console.log(sub*sub1);
 // console.log(sub/sub1);
 
-Assignment Operators
-var x=5;
-var y=4;
-y++;
-var x= x+y;
-console.log(x);
+// Assignment Operators
+// var x=5;
+// var y=4;
+// y++;
+// var x= x+y;
+// console.log(x);
 
-var a=10.34;
-var b=120;
-var c=15;
-var a=a+b;
-console.log(a);
- var c=205;
- var d=150;
- var c=c-d;
- console.log(c);
- var a=5;
- var b=20;
- var a=a+b;
- console.log(a);
-var a='5';
-a=parseInt(a);
-console.log("result=>",a, typeof(a));
+// var a=10.34;
+// var b=120;
+// var c=15;
+// var a=a+b;
+// console.log(a);
+//  var c=205;
+//  var d=150;
+//  var c=c-d;
+//  console.log(c);
+//  var a=5;
+//  var b=20;
+//  var a=a+b;
+//  console.log(a);
+// var a='5';
+// a=parseInt(a);Assignment Operators
+// var x=5;
+// var y=4;
+// y++;
+// var x= x+y;
+// console.log(x);
+
+// var a=10.34;
+// var b=120;
+// var c=15;
+// var a=a+b;
+// console.log(a);
+//  var c=205;
+//  var d=150;
+//  var c=c-d;
+//  console.log(c);
+//  var a=5;
+//  var b=20;
+//  var a=a+b;
+//  console.log(a);
+// var a='5';
+// a=parseInt(a);
+// console.log("result=>",a, typeof(a));
 
 //  comparion operatores
-//  < less then 
-// var num=52;
-// var num1=12;
-//  console.log(num<num1);
-// var a=10;
-// var b=5;
-// console.log(a<b);
-// var a=20;
-// var b=25;
-// console.log(a<b);
-// var c=15.5;
-// var d=19;
-// console.log(c<d);
-// var a=50;
-// var b=60;
-// console.log(a<b);
-// var c=10.5;
-// var d=2;
-// console.log(c<d);
+ < less then 
+var num=52;
+var num1=12;
+ console.log(num<num1);
+var a=10;
+var b=5;
+console.log(a<b);
+var a=20;
+var b=25;
+console.log(a<b);
+var c=15.5;
+var d=19;
+console.log(c<d);
+var a=50;
+var b=60;
+console.log(a<b);
+var c=10.5;
+var d=2;
+console.log(c<d);
 
 // > Greater then
 //    var a=20;
