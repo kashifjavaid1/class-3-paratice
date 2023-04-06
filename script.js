@@ -142,6 +142,7 @@
 //     console.log("result",result);
 // }
 // abc()
+//  write a js program that two input number both number a equal?
 function abc(a,b){
     var age=+prompt("Enter user age")
     if (age>=1 && age<=15 ) {
