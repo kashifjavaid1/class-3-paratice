@@ -127,36 +127,36 @@
 
 // // sumtwonumber(a+b)
 
-function addtwonumber(userinput,userinput1) {
-    var result=+userinput+userinput1;
-    console.log("result",result);
-}
-var userinput=+prompt("Entet Number");
-var userinput1=+prompt("Enter Number");
-addtwonumber(userinput,userinput1)
+// function addtwonumber(userinput,userinput1) {
+//     var result=+userinput+userinput1;
+//     console.log("result",result);
+// }
+// var userinput=+prompt("Entet Number");
+// var userinput1=+prompt("Enter Number");
+// addtwonumber(userinput,userinput1)
 
-function abc(a,b){
-    var sum1=+prompt("Enter User Number");
-    var sum2=+prompt("Enter User Number");
-    var result=sum1+sum2;
-    console.log("result",result);
-}
-abc()
 // function abc(a,b){
-//     var age=+prompt("Enter user age")
-//     if (age>=1 && age<=15 ) {
-//         alert("Not Apply this job");
-//     }
-//     else if (age >=16 && age<=23)
-//     {
-//         alert("Apply this job");
-//     }
-//     else 
-//     {
-//         alert("Over age this job");
-//     }
+//     var sum1=+prompt("Enter User Number");
+//     var sum2=+prompt("Enter User Number");
+//     var result=sum1+sum2;
+//     console.log("result",result);
 // }
 // abc()
+function abc(a,b){
+    var age=+prompt("Enter user age")
+    if (age>=1 && age<=15 ) {
+        alert("Not Apply this job");
+    }
+    else if (age >=16 && age<=23)
+    {
+        alert("Apply this job");
+    }
+    else 
+    {
+        alert("Over age this job");
+    }
+}
+abc()
 
 {/* // function abc(sum,sum1) { */}
 //     var num=+prompt("Enter a Number");
