@@ -5,18 +5,18 @@
 // var int=5;
 // console.log("2"+int)
 
-// artihmatic Operatores
+artihmatic Operatores
 
-// var int=21;
-// var int1=55;
-// var result=int+int1;
-// console.log(result);
+var int=21;
+var int1=55;
+var result=int+int1;
+console.log(result);
 
-// var sub=50;
-// var sub1=20;
-// console.log(sub-sub1);
-// console.log(sub*sub1);
-// console.log(sub/sub1);
+var sub=50;
+var sub1=20;
+console.log(sub-sub1);
+console.log(sub*sub1);
+console.log(sub/sub1);
 
 // Assignment Operators
 // var x=5;
@@ -137,17 +137,17 @@
 // }
 // abc()
 
-function abc(sum,sum1) {
-    var num=+prompt("Enter a Number");
-    var num1=+prompt("Enter a Number"); 
-    var result=num==num1;
-    if (num==num1) {
-        console.log("Both Number a equal",result);
-    }
-    else{
-        console.log("Both Number Not a equal",result);
-    }
-}
-abc()
+{/* // function abc(sum,sum1) { */}
+//     var num=+prompt("Enter a Number");
+//     var num1=+prompt("Enter a Number"); 
+//     var result=num==num1;
+//     if (num==num1) {
+//         console.log("Both Number a equal",result);
+//     }
+//     else{
+//         console.log("Both Number Not a equal",result);
+//     }
+// }
+// abc()
 
 
